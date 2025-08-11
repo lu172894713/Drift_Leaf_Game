@@ -1,0 +1,84 @@
+{
+  "name": "Drift Leaf",
+  "short_name": "Drift Leaf",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "4761d218fd865da23f7c476a623f4ed75d18f8cec84d64cdc6f1702032d087e0-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "13a6028aaa495e6dd465da243396d370d45f847d2ebd4ca1f02d22897c9ce68f-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "302b75d8bc09344ec140f75fc5043b80902715241c7a963d108466857006335c-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "cf73aeebab8c3f3b3585ddceda77f0dd3608f52913c36a46a6b07f76eccaab07-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "ff49b5d70dc124a12826bf285eea03f94413d4e4e803dbc78fb4302a000c9fcf-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "ecf42eaf8a3b0924855cfe47e27c5d122d0bd35440c896fe1a7044e8e5c23dd1-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "54b4ad403f0a8f2b2cd14b709eb7eac44e0261fb197831a5529c0c3f75b0a909-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "77537c73214ad26287e38660f481da0522a24b215930657deffcbef5adcf25a4-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "f1d1946b6a8f5a2e0c35b561447aad333faa80de5fe1ddc4664365ce47c6cb29-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "17d3ef244456a5e603d23d9224b8dd5f464d59277b210f392e2a4c25204dd233-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "9ac3fcae4fcdab00b3122f54be506230134a603fa4eb91bd0a1869eff084eaea-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "d244bf2e93ce7bc50c1bfd3fd871f7177be2dd5ec2c0a6fe121ffe3e06604ab4-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "9d6e0a17bd1b915614cc7ad6719bff450ce81678a73e6443750cd695400a6300-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "69a9899f5a09463c5e179679cdac8628bd0e0403586ce7bb8e85f69a4fb49d4c-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "0923ef0702a746d78d23157a5bcdbd2de46800e7b612036b5ad8aa20598e1d67-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "c654b50740095d0df5deb319164fcd7fca13536cfdf7dbca622ce7bbbadb181c-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "dda37ee75e7d80c257b85fc52d16f4411129a16f675d3a3ce8ed7c9f721dccde-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "8a481c3e6e2a92f21faa9e0c0a0526b3a2385cf960cb94b533bb1f7deee78ef1-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "30c73f9d7cfe9af60b57b403eee7fe0380cb0338c189435c672b467bb24c37a1-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "0150ea16db88fc5bf731040cd8318b8ff465aad6b5b8c7e5640715ccf043bba1-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "ab119d3eeef4d8af6df634ea1eb9e0e3109abe62cbf48be8c5d7cc9dbf59801f-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "1af1642bb1fd621aaadbc9b1291880078d8f1fe04512e2258f30c734e30af2e2-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "4b555b52e82da284e3725505f36bbc10106cca7029f39faa95c4bb01c3f65c5f-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "2e6a3c58a792f215e49f743183e1448d716ab75b7400e805bc0aead5e52c4a66-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
